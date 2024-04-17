@@ -15,7 +15,7 @@ const Models = [
   // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'donaciones', url: './donaciones.glb', miEscala: .2, miPosicion: -0.3 },
-  { title: 'FAROLIVA', url: './faroliva.glb', miEscala: 1.3, miPosicion: 0.2 },
+  { title: 'JONNY', url: './JONNY.glb', miEscala: 1.0, miPosicion: 0.2 },
 ]
 
 function Model({ url, miEscala, miPosicion }) {
